@@ -1,7 +1,7 @@
 # Login Form
  
 ## Description
-A login form mockup to showcase basic understanding of forms and styling techniques.  
+A login/register form to showcase my understanding of technologies and styling techniques. When you click 'Register' a new form will appear to create an account. Unfortunately you are not signing up for anything this is a mockup version.  
 ## Acknowledgements
 * [Pixabay Image](https://pixabay.com/)
 * [CSS Cheatsheet](https://websitesetup.org/css3-cheat-sheet/)
