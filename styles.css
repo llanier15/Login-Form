@@ -68,7 +68,7 @@ body {
 }
 
 .input-box::active, .input-box:focus {
-  transform: translateY(1px);
+  transform: translateX(1px);
   padding-bottom: 0px;
 }
 
