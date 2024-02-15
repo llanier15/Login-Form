@@ -67,7 +67,12 @@ body {
   font-size: 20px;
 }
 
-.wrapper .remember-forgot {
+.input-box::active, .input-box:focus {
+  transform: translateY(1px);
+  padding-bottom: 0px;
+}
+
+.wrapper, .remember-forgot {
   display: flex;
   justify-content: space-between;
   font-size: 14.5px;
